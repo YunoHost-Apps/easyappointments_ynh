@@ -14,7 +14,7 @@
         "demo": "https://demo.easyappointments.org/",
         "admindoc": "https://easyappointments.org/docs.html#1.4.1/readme.md",
         "code": "https://github.com/alextselegidis/easyappointments"
-    },
+  },
   "license": "GPL-3.0-only",
   "maintainer": {
     "name": "",
