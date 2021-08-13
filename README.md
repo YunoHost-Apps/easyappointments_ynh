@@ -35,8 +35,8 @@ If you don't have YunoHost, please see [here](https://yunohost.org/#/install) to
 ## Links
 
  * Report a bug: https://github.com/YunoHost-Apps/easyappointments_ynh/issues
- * Tiny Tiny RSS website: https://easyappointments.org/
- * Tiny Tiny RSS repository: https://github.com/alextselegidis/easyappointments
+ * Easy!Appointments website: https://easyappointments.org/
+ * Easy!Appointments repository: https://github.com/alextselegidis/easyappointments
  * YunoHost website: https://yunohost.org/
 
 ---
@@ -49,5 +49,5 @@ To try the testing branch, please proceed like that.
 ```
 sudo yunohost app install https://github.com/YunoHost-Apps/easyappointments_ynh/tree/testing --debug
 or
-sudo yunohost app upgrade ttrss -u https://github.com/YunoHost-Apps/easyappointments_ynh/tree/testing --debug
+sudo yunohost app upgrade easyappointments -u https://github.com/YunoHost-Apps/easyappointments_ynh/tree/testing --debug
 ```
