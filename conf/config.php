@@ -30,7 +30,7 @@ class Config {
     // GENERAL SETTINGS
     // ------------------------------------------------------------------------
 
-    const BASE_URL      = 'http://__DOMAIN__';
+    const BASE_URL      = 'https://__DOMAIN__';
     const LANGUAGE      = '__LANGUAGE__';
     const DEBUG_MODE    = FALSE;
 
