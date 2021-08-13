@@ -3,8 +3,8 @@
   "id": "easyappointments",
   "packaging_format": 1,
   "description": {
-    "en": "",
-    "fr": ""
+    "en": "Open Source Appointment Scheduler",
+    "fr": "Planificateur de rendez-vous Open Source"
   },
   "version": "1.4.2~ynh1",
   "url": "https://easyappointments.org/",
@@ -13,7 +13,6 @@
         "website": "https://easyappointments.org/",
         "demo": "https://demo.easyappointments.org/",
         "admindoc": "https://easyappointments.org/docs.html#1.4.1/readme.md",
-        "userdoc": "https://yunohost.org/apps",
         "code": "https://github.com/alextselegidis/easyappointments"
     },
   "license": "GPL-3.0-only",
