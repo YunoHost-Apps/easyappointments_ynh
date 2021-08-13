@@ -1,4 +1,4 @@
-# Easy!appointments for YunoHost
+# Easy!Appointments for YunoHost
 
 [![Integration level](https://dash.yunohost.org/integration/ttrss.svg)](https://dash.yunohost.org/appci/app/ttrss) ![](https://ci-apps.yunohost.org/ci/badges/ttrss.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/ttrss.maintain.svg)  
 [![Install Tiny Tiny RSS with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=ttrss)
@@ -10,24 +10,23 @@ If you don't have YunoHost, please see [here](https://yunohost.org/#/install) to
 
 ## Overview
 
-Tiny Tiny RSS is a free and open source web-based news feed (RSS/Atom) reader and aggregator.
 
 **Shipped version:** 1.4.2
 
 ## Screenshots
 
-![](https://tt-rss.org/images/ttrss/18.12/1812-shot1.png)
+![]()
 
 ## Demo
 
-* [YunoHost demo](https://demo.yunohost.org/ttrss/)
+* [YunoHost demo]()
 
 ## Configuration
 
 ## Documentation
 
- * Official documentation: https://git.tt-rss.org/git/tt-rss/wiki
- * YunoHost documentation: https://yunohost.org/en/app_ttrss
+ * Official documentation: 
+ * YunoHost documentation: 
 
 ## YunoHost specific features
 
