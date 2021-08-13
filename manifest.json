@@ -1,0 +1,63 @@
+{
+  "name": "Easy!Appointments",
+  "id": "easyappointments",
+  "packaging_format": 1,
+  "description": {
+    "en": "",
+    "fr": ""
+  },
+  "version": "1.4.2~ynh1",
+  "url": "https://easyappointments.org/",
+  "upstream": {
+        "license": "GPL-3.0-only",
+        "website": "https://easyappointments.org/",
+        "demo": "https://demo.easyappointments.org/",
+        "admindoc": "https://easyappointments.org/docs.html#1.4.1/readme.md",
+        "userdoc": "https://yunohost.org/apps",
+        "code": "https://github.com/alextselegidis/easyappointments"
+    },
+  "license": "GPL-3.0-only",
+  "maintainer": {
+    "name": "",
+    "email": ""
+  },
+  "requirements": {
+    "yunohost": ">= 4.2.4"
+  },
+  "multi_instance": true,
+  "services": [
+      "nginx",
+      "php7.3-fpm",
+      "mysql"
+  ],
+  "arguments": {
+    "install" : [
+    {
+      "name": "domain",
+      "type": "domain",
+      "example": "domain.org"
+    },
+    {
+      "name": "path",
+      "type": "path",
+      "example": "/",
+      "default": "/"
+    },
+    {
+      "name": "is_public",
+      "type": "boolean",
+      "default": true
+    },
+    {
+      "name": "language",
+      "type": "string",
+        "ask": {
+          "en": "Choose the application language",
+          "fr": "Choisissez la langue de l'application"
+          },
+          "choices": ["fr", "en"],
+          "default": "fr"
+     }
+    ]
+  }
+}

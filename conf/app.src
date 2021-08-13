@@ -1,0 +1,7 @@
+SOURCE_URL=https://github.com/alextselegidis/easyappointments/releases/download/1.4.1/easyappointments-1.4.1.zip
+SOURCE_SUM=d974c069dda5b8b0f6a853b186b917490d13714d33f06db31ccac62f7443ec1c
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=zip
+SOURCE_IN_SUBDIR=false
+SOURCE_FILENAME=
+SOURCE_EXTRACT=true
