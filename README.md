@@ -1,11 +1,11 @@
 # Easy!Appointments for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/ttrss.svg)](https://dash.yunohost.org/appci/app/ttrss) ![](https://ci-apps.yunohost.org/ci/badges/ttrss.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/ttrss.maintain.svg)  
-[![Install Tiny Tiny RSS with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=ttrss)
+[![Integration level](https://dash.yunohost.org/integration/easyappointments.svg)](https://dash.yunohost.org/appci/app/easyappointments) ![](https://ci-apps.yunohost.org/ci/badges/easyappointments.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/easyappointments.maintain.svg)  
+[![Install Easy!Appointments with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=easyappointments)
 
 *[Lire ce readme en français.](./README_fr.md)*
 
-> *This package allow you to install Tiny Tiny RSS quickly and simply on a YunoHost server.  
+> *This package allow you to install Easy!Appointments quickly and simply on a YunoHost server.  
 If you don't have YunoHost, please see [here](https://yunohost.org/#/install) to know how to install and enjoy it.*
 
 ## Overview
@@ -19,23 +19,14 @@ If you don't have YunoHost, please see [here](https://yunohost.org/#/install) to
 
 ## Demo
 
-* [YunoHost demo]()
+* (https://demo.easyappointments.org/)
 
 ## Configuration
 
 ## Documentation
 
- * Official documentation: 
+ * Official documentation: https://easyappointments.org/docs.html#1.4.1/readme.md
  * YunoHost documentation: 
-
-## YunoHost specific features
-
-#### Multi-users support
-
-#### Supported architectures
-
-* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/ttrss.svg)](https://ci-apps.yunohost.org/ci/apps/ttrss/)
-* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/ttrss.svg)](https://ci-apps-arm.yunohost.org/ci/apps/ttrss/)
 
 ## Limitations
 
@@ -43,20 +34,20 @@ If you don't have YunoHost, please see [here](https://yunohost.org/#/install) to
 
 ## Links
 
- * Report a bug: https://github.com/YunoHost-Apps/ttrss_ynh/issues
- * Tiny Tiny RSS website: https://tt-rss.org/
- * Tiny Tiny RSS repository: https://git.tt-rss.org/git/tt-rss
+ * Report a bug: https://github.com/YunoHost-Apps/easyappointments_ynh/issues
+ * Tiny Tiny RSS website: https://easyappointments.org/
+ * Tiny Tiny RSS repository: https://github.com/alextselegidis/easyappointments
  * YunoHost website: https://yunohost.org/
 
 ---
 
 ## Developers infos
 
-Please do your pull request to the [testing branch](https://github.com/YunoHost-Apps/ttrss_ynh/tree/testing).
+Please do your pull request to the [testing branch](https://github.com/YunoHost-Apps/easyappointments_ynh/tree/testing).
 
 To try the testing branch, please proceed like that.
 ```
-sudo yunohost app install https://github.com/YunoHost-Apps/ttrss_ynh/tree/testing --debug
+sudo yunohost app install https://github.com/YunoHost-Apps/easyappointments_ynh/tree/testing --debug
 or
-sudo yunohost app upgrade ttrss -u https://github.com/YunoHost-Apps/ttrss_ynh/tree/testing --debug
+sudo yunohost app upgrade ttrss -u https://github.com/YunoHost-Apps/easyappointments_ynh/tree/testing --debug
 ```
