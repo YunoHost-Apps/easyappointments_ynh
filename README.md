@@ -27,7 +27,7 @@ The application is designed to be flexible enough so that it can handle any ente
 - Email notifications system.
 - Self hosted installation.
 - Translated user interface.
-- User community support.
+
 
 **Shipped version:** 1.4.2~ynh1
 
