@@ -25,7 +25,7 @@ The application is designed to be flexible enough so that it can handle any ente
 - Translated user interface.
 
 
-**Version incluse :** 1.4.2~ynh1
+**Version incluse :** 1.4.2~ynh2
 
 **Démo :** https://demo.easyappointments.org/
 
