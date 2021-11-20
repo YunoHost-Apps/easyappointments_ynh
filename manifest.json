@@ -6,7 +6,7 @@
     "en": "Open Source Appointment Scheduler",
     "fr": "Planificateur de rendez-vous Open Source"
   },
-  "version": "1.4.2~ynh1",
+  "version": "1.4.2~ynh2",
   "url": "https://easyappointments.org/",
   "upstream": {
         "license": "GPL-3.0-only",
@@ -17,11 +17,11 @@
   },
   "license": "GPL-3.0-only",
   "maintainer": {
-    "name": "",
+    "name": "eric_G",
     "email": ""
   },
   "requirements": {
-    "yunohost": ">= 4.2.4"
+    "yunohost": ">= 4.3.0"
   },
   "multi_instance": true,
   "services": [
@@ -33,8 +33,7 @@
     "install" : [
     {
       "name": "domain",
-      "type": "domain",
-      "example": "domain.org"
+      "type": "domain"
     },
     {
       "name": "is_public",
