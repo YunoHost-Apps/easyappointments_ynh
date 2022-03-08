@@ -6,7 +6,7 @@
     "en": "Open Source Appointment Scheduler",
     "fr": "Planificateur de rendez-vous Open Source"
   },
-  "version": "1.4.2~ynh2",
+  "version": "1.4.3~ynh1",
   "url": "https://easyappointments.org/",
   "upstream": {
         "license": "GPL-3.0-only",
