@@ -5,7 +5,7 @@ It shall NOT be edited by hand.
 
 # Easy!Appointments for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/easyappointments.svg)](https://dash.yunohost.org/appci/app/easyappointments) ![](https://ci-apps.yunohost.org/ci/badges/easyappointments.status.svg) ![](https://ci-apps.yunohost.org/ci/badges/easyappointments.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/easyappointments.svg)](https://dash.yunohost.org/appci/app/easyappointments) ![Working status](https://ci-apps.yunohost.org/ci/badges/easyappointments.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/easyappointments.maintain.svg)  
 [![Install Easy!Appointments with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=easyappointments)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -35,25 +35,26 @@ The application is designed to be flexible enough so that it can handle any ente
 
 ## Screenshots
 
-![](./doc/screenshots/screenshots.png)
+![Screenshot of Easy!Appointments](./doc/screenshots/screenshots.png)
 
 ## Documentation and resources
 
-* Official app website: https://easyappointments.org/
-* Official admin documentation: https://easyappointments.org/docs.html#1.4.3/readme.md
-* Upstream app code repository: https://github.com/alextselegidis/easyappointments
-* YunoHost documentation for this app: https://yunohost.org/app_easyappointments
-* Report a bug: https://github.com/YunoHost-Apps/easyappointments_ynh/issues
+* Official app website: <https://easyappointments.org/>
+* Official admin documentation: <https://easyappointments.org/docs.html#1.4.3/readme.md>
+* Upstream app code repository: <https://github.com/alextselegidis/easyappointments>
+* YunoHost documentation for this app: <https://yunohost.org/app_easyappointments>
+* Report a bug: <https://github.com/YunoHost-Apps/easyappointments_ynh/issues>
 
 ## Developer info
 
 Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/easyappointments_ynh/tree/testing).
 
 To try the testing branch, please proceed like that.
-```
+
+``` bash
 sudo yunohost app install https://github.com/YunoHost-Apps/easyappointments_ynh/tree/testing --debug
 or
 sudo yunohost app upgrade easyappointments -u https://github.com/YunoHost-Apps/easyappointments_ynh/tree/testing --debug
 ```
 
-**More info regarding app packaging:** https://yunohost.org/packaging_apps
+**More info regarding app packaging:** <https://yunohost.org/packaging_apps>
