@@ -6,7 +6,7 @@
 
 YNH_PHP_VERSION="8.0"
 
-pkg_dependencies="php${YNH_PHP_VERSION}-curl"
+pkg_dependencies="php${YNH_PHP_VERSION}-curl php${YNH_PHP_VERSION}-mysql"
 
 #=================================================
 # PERSONAL HELPERS
