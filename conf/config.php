@@ -40,7 +40,7 @@ class Config {
 
     const DB_HOST       = 'localhost';
     const DB_NAME       = '__DB_NAME__';
-    const DB_USERNAME   = '__DB_NAME__';
+    const DB_USERNAME   = '__DB_USER__';
     const DB_PASSWORD   = '__DB_PWD__';
 
     // ------------------------------------------------------------------------
