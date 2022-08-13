@@ -31,6 +31,7 @@ The application is designed to be flexible enough so that it can handle any ente
 
 **Shipped version:** 1.4.3~ynh1
 
+
 **Demo:** https://demo.easyappointments.org/
 
 ## Screenshots
