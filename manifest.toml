@@ -5,7 +5,7 @@ name = "Easy!Appointments"
 description.en = "Open Source Appointment Scheduler"
 description.fr = "Planificateur de rendez-vous Open Source"
 
-version = "1.4.3~ynh1"
+version = "1.4.3~ynh2"
 
 maintainers = ["eric_G"]
 
