@@ -22,17 +22,12 @@ chown -R $app:www-data "$install_dir"
 chmod -R 770 "$install_dir/storage"
 
 #=================================================
-# NGINX CONFIGURATION
+# SYSTEM CONFIGURATION
 #=================================================
-ynh_script_progression --message="Configuring NGINX web server..." --weight=2
+ynh_script_progression --message="Adding system configurations related to $app..." --weight=1
 
 # Create a dedicated NGINX config
 ynh_add_nginx_config
-
-#=================================================
-# PHP-FPM CONFIGURATION
-#=================================================
-ynh_script_progression --message="Configuring PHP-FPM..." --weight=2
 
 # Create a dedicated PHP-FPM config
 ynh_add_fpm_config --usage=low --footprint=low
