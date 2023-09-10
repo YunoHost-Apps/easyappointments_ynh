@@ -16,21 +16,20 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-Easy!Appointments is a highly customizable web application that allows customers to book appointments with you via a sophisticated web interface. Moreover, it provides the ability to sync your data with Google Calendar so you can use them with other services. It is an open source project that you can download and install even for commercial use. Easy!Appointments will run smoothly with your existing website as it can be installed in a single folder of the server and of course share an existing database.
+Easy!Appointments est une application Web hautement personnalisable qui permet aux clients de prendre rendez-vous avec vous via une interface Web sophistiquée. De plus, il offre la possibilité de synchroniser vos données avec Google Agenda afin que vous puissiez les utiliser avec d'autres services. Il s'agit d'un projet open source que vous pouvez télécharger et installer même pour un usage commercial. Easy!Appointments fonctionnera sans problème avec votre site Web existant car il peut être installé dans un seul dossier du serveur et bien sûr partager une base de données existante.
 
-### Features
-The application is designed to be flexible enough so that it can handle any enterprise work flow.
+### Caractéristiques
 
-- Customers and appointments management.
-- Services and providers organization.
-- Working plan and booking rules.
-- Google Calendar synchronization.
-- Email notifications system.
-- Self hosted installation.
-- Translated user interface.
+- Gestion des clients et des rendez-vous.
+- Organisation des services et prestataires.
+- Plan de travail et règles de réservation.
+- Synchronisation de Google Agenda.
+- Système de notifications par e-mail.
+- Installation auto-hébergée.
+- Interface utilisateur traduite.
 
 
-**Version incluse :** 1.4.3~ynh2
+**Version incluse :** 1.4.3~ynh3
 
 **Démo :** https://demo.easyappointments.org/
 
