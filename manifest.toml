@@ -17,7 +17,7 @@ admindoc = "https://easyappointments.org/docs.html#1.4.3/readme.md"
 code = "https://github.com/alextselegidis/easyappointments"
 
 [integration]
-yunohost = ">= 11.2"
+yunohost = ">= 11.2.20"
 architectures = "all"
 multi_instance = true
 
