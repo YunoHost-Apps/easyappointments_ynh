@@ -20,6 +20,10 @@ chmod -R o-rwx "$install_dir"
 chown -R $app:www-data "$install_dir"
 chmod -R 770 "$install_dir/storage"
 
+pushd "$install_dir"
+	php$phpversion $install_dir/index.php console migrate 
+popd
+
 #=================================================
 # REAPPLY SYSTEM CONFIGURATIONS
 #=================================================
