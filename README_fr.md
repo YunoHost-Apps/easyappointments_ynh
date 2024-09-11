@@ -29,7 +29,7 @@ Easy!Appointments est une application Web hautement personnalisable qui permet a
 - Interface utilisateur traduite.
 
 
-**Version incluse :** 1.5.0~ynh2
+**Version incluse :** 1.5.0~ynh3
 
 **Démo :** <https://demo.easyappointments.org/>
 
