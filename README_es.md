@@ -30,7 +30,7 @@ The application is designed to be flexible enough so that it can handle any ente
 - Translated user interface.
 
 
-**Versión actual:** 1.5.0~ynh2
+**Versión actual:** 1.5.0~ynh3
 
 **Demo:** <https://demo.easyappointments.org/>
 
@@ -48,7 +48,7 @@ The application is designed to be flexible enough so that it can handle any ente
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/easyappointments_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/easyappointments_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 

@@ -30,7 +30,7 @@ The application is designed to be flexible enough so that it can handle any ente
 - Translated user interface.
 
 
-**Shipped version:** 1.5.0~ynh2
+**Shipped version:** 1.5.0~ynh3
 
 **Demo:** <https://demo.easyappointments.org/>
 
