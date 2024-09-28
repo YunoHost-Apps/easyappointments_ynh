@@ -22,8 +22,6 @@ ynh_config_add_nginx
 ynh_config_add_phpfpm
 
 #=================================================
-# SPECIFIC SETUP
-#=================================================
 # ADD A CONFIGURATION
 #=================================================
 ynh_script_progression "Adding $app's configuration..."
