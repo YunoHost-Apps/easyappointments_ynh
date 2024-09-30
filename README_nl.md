@@ -41,7 +41,7 @@ The application is designed to be flexible enough so that it can handle any ente
 ## Documentatie en bronnen
 
 - Officiele website van de app: <https://easyappointments.org/>
-- Officiele beheerdersdocumentatie: <https://easyappointments.org/docs.html#1.4.3/readme.md>
+- Officiele beheerdersdocumentatie: <https://easyappointments.org/docs.html#1.5.0/readme.md>
 - Upstream app codedepot: <https://github.com/alextselegidis/easyappointments>
 - YunoHost-store: <https://apps.yunohost.org/app/easyappointments>
 - Meld een bug: <https://github.com/YunoHost-Apps/easyappointments_ynh/issues>

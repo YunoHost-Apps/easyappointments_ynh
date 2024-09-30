@@ -41,7 +41,7 @@ The application is designed to be flexible enough so that it can handle any ente
 ## Dokumentasi dan sumber daya
 
 - Website aplikasi resmi: <https://easyappointments.org/>
-- Dokumentasi admin resmi: <https://easyappointments.org/docs.html#1.4.3/readme.md>
+- Dokumentasi admin resmi: <https://easyappointments.org/docs.html#1.5.0/readme.md>
 - Depot kode aplikasi hulu: <https://github.com/alextselegidis/easyappointments>
 - Gudang YunoHost: <https://apps.yunohost.org/app/easyappointments>
 - Laporkan bug: <https://github.com/YunoHost-Apps/easyappointments_ynh/issues>

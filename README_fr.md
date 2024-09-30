@@ -40,7 +40,7 @@ Easy!Appointments est une application Web hautement personnalisable qui permet a
 ## Documentations et ressources
 
 - Site officiel de l’app : <https://easyappointments.org/>
-- Documentation officielle de l’admin : <https://easyappointments.org/docs.html#1.4.3/readme.md>
+- Documentation officielle de l’admin : <https://easyappointments.org/docs.html#1.5.0/readme.md>
 - Dépôt de code officiel de l’app : <https://github.com/alextselegidis/easyappointments>
 - YunoHost Store : <https://apps.yunohost.org/app/easyappointments>
 - Signaler un bug : <https://github.com/YunoHost-Apps/easyappointments_ynh/issues>

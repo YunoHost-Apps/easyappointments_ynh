@@ -41,7 +41,7 @@ The application is designed to be flexible enough so that it can handle any ente
 ## Dokumentazioa eta baliabideak
 
 - Aplikazioaren webgune ofiziala: <https://easyappointments.org/>
-- Administratzaileen dokumentazio ofiziala: <https://easyappointments.org/docs.html#1.4.3/readme.md>
+- Administratzaileen dokumentazio ofiziala: <https://easyappointments.org/docs.html#1.5.0/readme.md>
 - Jatorrizko aplikazioaren kode-gordailua: <https://github.com/alextselegidis/easyappointments>
 - YunoHost Denda: <https://apps.yunohost.org/app/easyappointments>
 - Eman errore baten berri: <https://github.com/YunoHost-Apps/easyappointments_ynh/issues>

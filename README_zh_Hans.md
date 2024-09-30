@@ -41,7 +41,7 @@ The application is designed to be flexible enough so that it can handle any ente
 ## 文档与资源
 
 - 官方应用网站： <https://easyappointments.org/>
-- 官方管理文档： <https://easyappointments.org/docs.html#1.4.3/readme.md>
+- 官方管理文档： <https://easyappointments.org/docs.html#1.5.0/readme.md>
 - 上游应用代码库： <https://github.com/alextselegidis/easyappointments>
 - YunoHost 商店： <https://apps.yunohost.org/app/easyappointments>
 - 报告 bug： <https://github.com/YunoHost-Apps/easyappointments_ynh/issues>

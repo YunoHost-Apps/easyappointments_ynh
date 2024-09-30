@@ -41,7 +41,7 @@ The application is designed to be flexible enough so that it can handle any ente
 ## Documentaciones y recursos
 
 - Sitio web oficial: <https://easyappointments.org/>
-- Documentación administrador oficial: <https://easyappointments.org/docs.html#1.4.3/readme.md>
+- Documentación administrador oficial: <https://easyappointments.org/docs.html#1.5.0/readme.md>
 - Repositorio del código fuente oficial de la aplicación : <https://github.com/alextselegidis/easyappointments>
 - Catálogo YunoHost: <https://apps.yunohost.org/app/easyappointments>
 - Reportar un error: <https://github.com/YunoHost-Apps/easyappointments_ynh/issues>
