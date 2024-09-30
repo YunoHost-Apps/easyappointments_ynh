@@ -13,7 +13,7 @@ maintainers = []
 license = "GPL-3.0-only"
 website = "https://easyappointments.org/"
 demo = "https://demo.easyappointments.org/"
-admindoc = "https://easyappointments.org/docs.html#1.4.3/readme.md"
+admindoc = "https://easyappointments.org/docs.html#1.5.0/readme.md"
 code = "https://github.com/alextselegidis/easyappointments"
 
 [integration]
