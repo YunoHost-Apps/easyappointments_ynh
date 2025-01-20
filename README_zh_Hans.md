@@ -5,7 +5,9 @@
 
 # YunoHost 上的 Easy!Appointments
 
-[![集成程度](https://dash.yunohost.org/integration/easyappointments.svg)](https://ci-apps.yunohost.org/ci/apps/easyappointments/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/easyappointments.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/easyappointments.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/easyappointments)](https://ci-apps.yunohost.org/ci/apps/easyappointments/)
+![工作状态](https://apps.yunohost.org/badge/state/easyappointments)
+![维护状态](https://apps.yunohost.org/badge/maintained/easyappointments)
 
 [![使用 YunoHost 安装 Easy!Appointments](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=easyappointments)
 
@@ -30,7 +32,7 @@ The application is designed to be flexible enough so that it can handle any ente
 - Translated user interface.
 
 
-**分发版本：** 1.5.0~ynh3
+**分发版本：** 1.5.1~ynh1
 
 **演示：** <https://demo.easyappointments.org/>
 
@@ -41,7 +43,7 @@ The application is designed to be flexible enough so that it can handle any ente
 ## 文档与资源
 
 - 官方应用网站： <https://easyappointments.org/>
-- 官方管理文档： <https://easyappointments.org/docs.html#1.4.3/readme.md>
+- 官方管理文档： <https://easyappointments.org/docs.html#1.5.0/readme.md>
 - 上游应用代码库： <https://github.com/alextselegidis/easyappointments>
 - YunoHost 商店： <https://apps.yunohost.org/app/easyappointments>
 - 报告 bug： <https://github.com/YunoHost-Apps/easyappointments_ynh/issues>

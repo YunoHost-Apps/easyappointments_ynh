@@ -5,7 +5,9 @@
 
 # Easy!Appointments для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/easyappointments.svg)](https://ci-apps.yunohost.org/ci/apps/easyappointments/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/easyappointments.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/easyappointments.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/easyappointments)](https://ci-apps.yunohost.org/ci/apps/easyappointments/)
+![Состояние работы](https://apps.yunohost.org/badge/state/easyappointments)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/easyappointments)
 
 [![Установите Easy!Appointments с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=easyappointments)
 
@@ -30,7 +32,7 @@ The application is designed to be flexible enough so that it can handle any ente
 - Translated user interface.
 
 
-**Поставляемая версия:** 1.5.0~ynh3
+**Поставляемая версия:** 1.5.1~ynh1
 
 **Демо-версия:** <https://demo.easyappointments.org/>
 
@@ -41,7 +43,7 @@ The application is designed to be flexible enough so that it can handle any ente
 ## Документация и ресурсы
 
 - Официальный веб-сайт приложения: <https://easyappointments.org/>
-- Официальная документация администратора: <https://easyappointments.org/docs.html#1.4.3/readme.md>
+- Официальная документация администратора: <https://easyappointments.org/docs.html#1.5.0/readme.md>
 - Репозиторий кода главной ветки приложения: <https://github.com/alextselegidis/easyappointments>
 - Магазин YunoHost: <https://apps.yunohost.org/app/easyappointments>
 - Сообщите об ошибке: <https://github.com/YunoHost-Apps/easyappointments_ynh/issues>

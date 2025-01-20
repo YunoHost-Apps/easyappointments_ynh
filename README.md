@@ -5,7 +5,9 @@ It shall NOT be edited by hand.
 
 # Easy!Appointments for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/easyappointments.svg)](https://ci-apps.yunohost.org/ci/apps/easyappointments/) ![Working status](https://ci-apps.yunohost.org/ci/badges/easyappointments.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/easyappointments.maintain.svg)
+[![Integration level](https://apps.yunohost.org/badge/integration/easyappointments)](https://ci-apps.yunohost.org/ci/apps/easyappointments/)
+![Working status](https://apps.yunohost.org/badge/state/easyappointments)
+![Maintenance status](https://apps.yunohost.org/badge/maintained/easyappointments)
 
 [![Install Easy!Appointments with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=easyappointments)
 
@@ -30,7 +32,7 @@ The application is designed to be flexible enough so that it can handle any ente
 - Translated user interface.
 
 
-**Shipped version:** 1.5.0~ynh3
+**Shipped version:** 1.5.1~ynh1
 
 **Demo:** <https://demo.easyappointments.org/>
 
@@ -41,7 +43,7 @@ The application is designed to be flexible enough so that it can handle any ente
 ## Documentation and resources
 
 - Official app website: <https://easyappointments.org/>
-- Official admin documentation: <https://easyappointments.org/docs.html#1.4.3/readme.md>
+- Official admin documentation: <https://easyappointments.org/docs.html#1.5.0/readme.md>
 - Upstream app code repository: <https://github.com/alextselegidis/easyappointments>
 - YunoHost Store: <https://apps.yunohost.org/app/easyappointments>
 - Report a bug: <https://github.com/YunoHost-Apps/easyappointments_ynh/issues>

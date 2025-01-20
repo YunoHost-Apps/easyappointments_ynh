@@ -5,7 +5,7 @@ name = "Easy!Appointments"
 description.en = "Open Source Appointment Scheduler"
 description.fr = "Planificateur de rendez-vous Open Source"
 
-version = "1.5.0~ynh3"
+version = "1.5.1~ynh1"
 
 maintainers = []
 
@@ -13,17 +13,16 @@ maintainers = []
 license = "GPL-3.0-only"
 website = "https://easyappointments.org/"
 demo = "https://demo.easyappointments.org/"
-admindoc = "https://easyappointments.org/docs.html#1.4.3/readme.md"
+admindoc = "https://easyappointments.org/docs.html#1.5.0/readme.md"
 code = "https://github.com/alextselegidis/easyappointments"
 
 [integration]
-yunohost = ">= 11.2.20"
+yunohost = ">= 12.0.9"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
 
 ldap = false
-
 sso = false
 
 disk = "50M"
@@ -47,8 +46,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/alextselegidis/easyappointments/releases/download/1.5.0/easyappointments-1.5.0.zip"
-        sha256 = "2875e77fd019167ea62b304a93a39a3c0a402e602b642aaaf0d1f5c749265be1"
+        url = "https://github.com/alextselegidis/easyappointments/releases/download/1.5.1/easyappointments-1.5.1.zip"
+        sha256 = "fd49588508b4aeae71d6088c3f26cbb4e17cd4ed7dfc761544686b965e3b1a48"
         in_subdir = false
         autoupdate.strategy = "latest_github_tag"
 
