@@ -5,7 +5,9 @@ Hij mag NIET handmatig aangepast worden.
 
 # Easy!Appointments voor Yunohost
 
-[![Integratieniveau](https://dash.yunohost.org/integration/easyappointments.svg)](https://ci-apps.yunohost.org/ci/apps/easyappointments/) ![Mate van functioneren](https://ci-apps.yunohost.org/ci/badges/easyappointments.status.svg) ![Onderhoudsstatus](https://ci-apps.yunohost.org/ci/badges/easyappointments.maintain.svg)
+[![Integratieniveau](https://apps.yunohost.org/badge/integration/easyappointments)](https://ci-apps.yunohost.org/ci/apps/easyappointments/)
+![Mate van functioneren](https://apps.yunohost.org/badge/state/easyappointments)
+![Onderhoudsstatus](https://apps.yunohost.org/badge/maintained/easyappointments)
 
 [![Easy!Appointments met Yunohost installeren](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=easyappointments)
 
@@ -30,7 +32,7 @@ The application is designed to be flexible enough so that it can handle any ente
 - Translated user interface.
 
 
-**Geleverde versie:** 1.5.0~ynh3
+**Geleverde versie:** 1.5.1~ynh1
 
 **Demo:** <https://demo.easyappointments.org/>
 

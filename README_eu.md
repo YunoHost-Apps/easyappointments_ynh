@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Easy!Appointments YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/easyappointments.svg)](https://ci-apps.yunohost.org/ci/apps/easyappointments/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/easyappointments.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/easyappointments.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/easyappointments)](https://ci-apps.yunohost.org/ci/apps/easyappointments/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/easyappointments)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/easyappointments)
 
 [![Instalatu Easy!Appointments YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=easyappointments)
 
@@ -30,7 +32,7 @@ The application is designed to be flexible enough so that it can handle any ente
 - Translated user interface.
 
 
-**Paketatutako bertsioa:** 1.5.0~ynh3
+**Paketatutako bertsioa:** 1.5.1~ynh1
 
 **Demoa:** <https://demo.easyappointments.org/>
 

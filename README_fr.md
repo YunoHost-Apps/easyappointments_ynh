@@ -5,7 +5,9 @@ Il NE doit PAS être modifié à la main.
 
 # Easy!Appointments pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/easyappointments.svg)](https://ci-apps.yunohost.org/ci/apps/easyappointments/) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/easyappointments.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/easyappointments.maintain.svg)
+[![Niveau d’intégration](https://apps.yunohost.org/badge/integration/easyappointments)](https://ci-apps.yunohost.org/ci/apps/easyappointments/)
+![Statut du fonctionnement](https://apps.yunohost.org/badge/state/easyappointments)
+![Statut de maintenance](https://apps.yunohost.org/badge/maintained/easyappointments)
 
 [![Installer Easy!Appointments avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=easyappointments)
 
@@ -29,7 +31,7 @@ Easy!Appointments est une application Web hautement personnalisable qui permet a
 - Interface utilisateur traduite.
 
 
-**Version incluse :** 1.5.0~ynh3
+**Version incluse :** 1.5.1~ynh1
 
 **Démo :** <https://demo.easyappointments.org/>
 

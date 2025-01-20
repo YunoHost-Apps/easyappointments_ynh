@@ -5,7 +5,9 @@
 
 # YunoHost 上的 Easy!Appointments
 
-[![集成程度](https://dash.yunohost.org/integration/easyappointments.svg)](https://ci-apps.yunohost.org/ci/apps/easyappointments/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/easyappointments.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/easyappointments.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/easyappointments)](https://ci-apps.yunohost.org/ci/apps/easyappointments/)
+![工作状态](https://apps.yunohost.org/badge/state/easyappointments)
+![维护状态](https://apps.yunohost.org/badge/maintained/easyappointments)
 
 [![使用 YunoHost 安装 Easy!Appointments](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=easyappointments)
 
@@ -30,7 +32,7 @@ The application is designed to be flexible enough so that it can handle any ente
 - Translated user interface.
 
 
-**分发版本：** 1.5.0~ynh3
+**分发版本：** 1.5.1~ynh1
 
 **演示：** <https://demo.easyappointments.org/>
 
