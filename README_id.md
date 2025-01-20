@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Easy!Appointments untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/easyappointments.svg)](https://ci-apps.yunohost.org/ci/apps/easyappointments/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/easyappointments.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/easyappointments.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/easyappointments)](https://ci-apps.yunohost.org/ci/apps/easyappointments/)
+![Status kerja](https://apps.yunohost.org/badge/state/easyappointments)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/easyappointments)
 
 [![Pasang Easy!Appointments dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=easyappointments)
 
@@ -30,7 +32,7 @@ The application is designed to be flexible enough so that it can handle any ente
 - Translated user interface.
 
 
-**Versi terkirim:** 1.5.0~ynh3
+**Versi terkirim:** 1.5.1~ynh1
 
 **Demo:** <https://demo.easyappointments.org/>
 
