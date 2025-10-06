@@ -8,7 +8,7 @@ It shall NOT be edited by hand.
   Easy!Appointments, packaged for YunoHost
 </h1>
 
-Open Source Appointment Scheduler
+Allows your clients to schedule appointments with you
 
 [![🌐 Official app website](https://img.shields.io/badge/Official_app_website-darkgreen?style=for-the-badge)](https://easyappointments.org/)
 [![App Demo](https://img.shields.io/badge/App_Demo-blue?style=for-the-badge)](https://demo.easyappointments.org/)

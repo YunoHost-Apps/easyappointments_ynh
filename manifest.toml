@@ -2,8 +2,8 @@ packaging_format = 2
 
 id = "easyappointments"
 name = "Easy!Appointments"
-description.en = "Open Source Appointment Scheduler"
-description.fr = "Planificateur de rendez-vous Open Source"
+description.en = "Allows your clients to schedule appointments with you"
+description.fr = "Permet à vos clients de prendre rendez-vous avec vous"
 
 version = "1.5.2~ynh1"
 
@@ -17,7 +17,7 @@ admindoc = "https://easyappointments.org/docs.html#1.5.0/readme.md"
 code = "https://github.com/alextselegidis/easyappointments"
 
 [integration]
-yunohost = ">= 12.0.9"
+yunohost = ">= 12.1.17"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
