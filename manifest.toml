@@ -5,7 +5,7 @@ name = "Easy!Appointments"
 description.en = "Allows your clients to schedule appointments with you"
 description.fr = "Permet à vos clients de prendre rendez-vous avec vous"
 
-version = "1.5.2~ynh2"
+version = "1.6.0~ynh1"
 
 maintainers = []
 
@@ -17,7 +17,7 @@ admindoc = "https://easyappointments.org/docs.html#1.5.0/readme.md"
 code = "https://github.com/alextselegidis/easyappointments"
 
 [integration]
-yunohost = ">= 12.1.38"
+yunohost = ">= 12.1.39"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
@@ -46,8 +46,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/alextselegidis/easyappointments/releases/download/1.5.2/easyappointments-1.5.2.zip"
-        sha256 = "8ec4ba90168d0dce489b744072a6a81819c4ce5ff619d1402b088ca94db3a5ad"
+        url = "https://github.com/alextselegidis/easyappointments/releases/download/1.6.0/easyappointments-1.6.0.zip"
+        sha256 = "299f8da75583ea185992ece4ac0b10e98f673825edbf75116446d99001911e60"
         in_subdir = false
         autoupdate.strategy = "latest_github_tag"
 
@@ -60,7 +60,7 @@ ram.runtime = "50M"
     main.url = "/"
 
     [resources.apt]
-    packages = "mariadb-server, php8.4-mbstring, php8.4-gd, php8.4-curl, php8.4-mysql"
+    packages = "mariadb-server, php8.5-mbstring, php8.5-gd, php8.5-curl, php8.5-mysql"
 
     [resources.database]
     type = "mysql"
