@@ -1,0 +1,13 @@
+diff --git a/application/libraries/Caldav_sync.php b/application/libraries/Caldav_sync.php
+index b5eb34c..b9c5e4f 100644
+--- a/application/libraries/Caldav_sync.php
++++ b/application/libraries/Caldav_sync.php
+@@ -29,7 +29,7 @@ use Sabre\VObject\Reader;
+ class Caldav_sync
+ {
+     // Toggle SSRF host validation here (enabled by default).
+-    protected bool $enable_ssrf_check = true;
++    protected bool $enable_ssrf_check = false;
+ 
+     /**
+      * @var EA_Controller|CI_Controller
