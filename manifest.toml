@@ -5,7 +5,7 @@ name = "Easy!Appointments"
 description.en = "Allows your clients to schedule appointments with you"
 description.fr = "Permet à vos clients de prendre rendez-vous avec vous"
 
-version = "1.6.0~ynh2"
+version = "1.6.1~ynh1"
 
 maintainers = []
 
@@ -17,7 +17,7 @@ admindoc = "https://easyappointments.org/docs.html#1.5.0/readme.md"
 code = "https://github.com/alextselegidis/easyappointments"
 
 [integration]
-yunohost = ">= 12.1.39"
+yunohost = ">= 12.1.40"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
@@ -46,8 +46,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://github.com/alextselegidis/easyappointments/releases/download/1.6.0/easyappointments-1.6.0.zip"
-        sha256 = "299f8da75583ea185992ece4ac0b10e98f673825edbf75116446d99001911e60"
+        url = "https://github.com/alextselegidis/easyappointments/releases/download/1.6.1/easyappointments-1.6.1.zip"
+        sha256 = "1671014c371519fa26e0a0a0dbdaa31047f5dda3156329faaea0662f095042f2"
         in_subdir = false
         autoupdate.strategy = "latest_github_tag"
 
